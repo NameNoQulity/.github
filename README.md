@@ -43,3 +43,25 @@ If you are an {% data variables.product.prodname_emu %}, you cannot install a {%
 
    If the app creates any repositories, the app will automatically be granted access to those repositories as well.
 1. Click **Install**.
+
+## Documents
+
+### Domains-Jurisdiction-Program-Operational-Approaches.pdf
+
+The document 'Domains-Jurisdiction-Program-Operational-Approaches.pdf' provides an in-depth analysis of various domains, jurisdictions, programs, and operational approaches. It is a valuable resource for understanding the complexities and nuances of these areas.
+
+You can find the document in the `cryto` directory: [Domains-Jurisdiction-Program-Operational-Approaches.pdf](cryto/Domains-Jurisdiction-Program-Operational-Approaches.pdf)
+
+### whoNeedsArchitect.pdf
+
+The document 'whoNeedsArchitect.pdf' provides insights into the necessity and role of architects in various projects. It is a useful resource for understanding the importance of architectural planning and design.
+
+You can find the document in the `cryto` directory: [whoNeedsArchitect.pdf](cryto/whoNeedsArchitect.pdf)
+
+## Example.com
+
+For more information, visit [Example.com](https://www.example.com)
+
+## example.com how to render the best way
+
+For more information, visit [example.com](https://www.example.com)
